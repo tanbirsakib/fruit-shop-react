@@ -1,6 +1,6 @@
 ## Project Name : Frootify Fruit Shop
 
-##Live Site Link : https://frootify.netlify.app/
+##Link : https://frootify.netlify.app/
 
 ---------------------About Project------------------
 
