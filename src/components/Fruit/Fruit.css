@@ -35,12 +35,9 @@
     font-size: 30px;
     cursor: pointer;
 }
-.fruit-cart i:hover{
-    font-size: 32px;
-}
-.facebook{
+.facebook:hover{
     color : blue;
 }
-.instagram{
+.instagram:hover{
     color : maroon;
 }
