@@ -4,10 +4,10 @@ import Fruit from "../Fruit/Fruit";
 import "./Shop.css";
 
 const Shop = () => {
-  // state declaring 
+  // state declaring
   const [fruits, setFruits] = useState([]);
   const [cart, setCart] = useState([]);
-  // loading jason data 
+  // loading jason data
   useEffect(() => {
     fetch("./fruits.JSON")
       .then((res) => res.json())
@@ -22,7 +22,7 @@ const Shop = () => {
       <div className="fruit-container">
         {fruits.map((fruit) => (
           <Fruit
-            key={fruit.name}
+            key={fruit.key}
             fruit={fruit}
             cartHandler={cartHandler}
           ></Fruit>

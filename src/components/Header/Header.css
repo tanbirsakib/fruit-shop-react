@@ -1,25 +1,42 @@
-.header-container{
-    background-color: green;
-    padding: 20px;
-    text-align: center;
-    
-    color : white;
-
+.header-container {
+  background-color: green;
+  padding: 20px;
+  text-align: center;
+  color: white;
 }
-.header{
-   display: flex;
-   justify-content: center;
+.header {
+  display: flex;
+  justify-content: center;
 }
-.shop-title{
-    color : white;
-    font-weight: 700;
+.shop-title {
+  color: white;
+  font-weight: 700;
 }
-.logo-img{
-    height: 80px;
-    margin-left: 20px;
-    margin-top: 10px;
-    display: block;
+.logo-img {
+  height: 80px;
+  margin-left: 20px;
+  margin-top: 10px;
+  display: block;
 }
-.budget{
-    color : #FDC74F;
+.budget {
+  color: #fdc74f;
+}
+.search-field {
+  padding: 5px 30px;
+  border: 1px solid green;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+.search-btn {
+  padding: 5px 15px;
+  border: 1px solid green;
+  border-radius: 5px;
+  background-color: white;
+  color: green;
+  cursor: pointer;
+}
+.search-btn:hover{
+  background-color: indianred;
+  border: 1px solid white;
+  color: white;
 }

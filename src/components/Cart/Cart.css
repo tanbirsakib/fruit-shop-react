@@ -3,20 +3,25 @@
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   padding: 10px;
   margin: 20px;
-  background-color: #D34A4D;
-  color : white;
+  background-color: #d34a4d;
+  color: white;
   border-radius: 10px;
 }
 .cartIcon {
   color: white;
 }
-.btn-buy{
+.btn-buy {
   background-color: white;
   padding: 8px 30px;
   border: none;
   border-radius: 10px;
   cursor: pointer;
-  color  : #D34A4D;
+  color: #d34a4d;
   font-size: 15px;
   font-weight: 700;
+}
+
+.btn-buy:hover {
+  background-color: #d12629;
+  color: white;
 }

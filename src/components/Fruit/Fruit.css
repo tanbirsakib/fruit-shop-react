@@ -1,43 +1,46 @@
-.fruit-cart{
-    padding: 15px;
-    text-align: center;
-    border-radius: 5px;
-    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+.fruit-cart {
+  padding: 15px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: #7ee8fa;
+  background-image: linear-gradient(white,rgb(237, 253, 237));
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
 }
-.fruit-cart img{
-    height: 150px;
-    border-radius: 100px;
+.fruit-cart img {
+  height: 150px;
+  border-radius: 100px;
 }
-.cart-btn{
-    padding: 8px 20px;
-    background-color: #008F0C;
-    cursor: pointer;
-    color : white;
-    font-weight: bold;
-    border : 1px solid green;
-    border-radius: 5px;
+.cart-btn {
+  padding: 8px 20px;
+  background-color: #008f0c;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  border: 1px solid green;
+  border-radius: 5px;
 }
-.fruit-name{
-    color  :#008F0C;
-}
-
-.fruit-cart button:hover{
-    background-color: indianred;
-    border: 1px solid white;
-}
-.fruit-name:hover{
-    cursor: pointer;
-    color: indianred;
+.fruit-name {
+  color: #008f0c;
 }
 
-.fruit-cart i{
-    margin:10px;
-    font-size: 30px;
-    cursor: pointer;
+.fruit-cart button:hover {
+  background-color: indianred;
+  border: 1px solid white;
 }
-.facebook:hover{
-    color : blue;
+.fruit-name:hover {
+  cursor: pointer;
+  color: indianred;
 }
-.instagram:hover{
-    color : maroon;
+
+.fruit-cart i {
+  margin: 10px;
+  font-size: 30px;
+  cursor: pointer;
+}
+.facebook:hover {
+  color: blue;
+}
+.instagram:hover {
+  color: maroon;
 }
