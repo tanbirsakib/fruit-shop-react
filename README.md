@@ -2,7 +2,7 @@
 
 ##Link : https://frootify.netlify.app/
 
-# Heading 1 # About Project------------------
+#  # About Project
 - Item 1 This project about making a fruit shop within the budget 5000tk.If anyone add a fruit on cart the fruit item and total cost will be added in cart.
 
 
