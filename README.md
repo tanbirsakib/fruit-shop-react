@@ -1,6 +1,6 @@
 ## Project Name : Frootify Fruit Shop
 
-##Link : https://frootify.netlify.app/
+(Link : https://frootify.netlify.app/)
 
 #  # About Project
 - Item 1 This project about making a fruit shop within the budget 5000tk.If anyone add a fruit on cart the fruit item and total cost will be added in cart.
