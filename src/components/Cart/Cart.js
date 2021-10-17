@@ -17,15 +17,16 @@ const Cart = (props) => {
   }
   return (
     <div className="cart">
-      <h4>
+      <h2>
         Booked Fruit{" "}
         <span className="cartIcon">
           {cartIcon} {treeIcon}
         </span>
-      </h4>
-      <h3>Total Fruit :{cart.length} </h3>
-      <p>Fruits Ordered:{totalFruits}</p>
+      </h2>
+      <h3>Total Fruit : {cart.length} </h3>
+      <p>Fruits Ordered: {totalFruits}</p>
       <h4>Price : {total} tk</h4>
+      <button className="btn-buy">Buy Now</button>
     </div>
   );
 };

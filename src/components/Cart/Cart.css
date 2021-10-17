@@ -1,6 +1,22 @@
 .cart {
   text-align: center;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 10px;
+  margin: 20px;
+  background-color: #D34A4D;
+  color : white;
+  border-radius: 10px;
 }
 .cartIcon {
-  color: rgb(32, 155, 73);
+  color: white;
+}
+.btn-buy{
+  background-color: white;
+  padding: 8px 30px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  color  : #D34A4D;
+  font-size: 15px;
+  font-weight: 700;
 }

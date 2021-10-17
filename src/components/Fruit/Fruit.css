@@ -3,7 +3,6 @@
     text-align: center;
     border-radius: 5px;
     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
-    
 }
 .fruit-cart img{
     height: 150px;
@@ -20,4 +19,28 @@
 }
 .fruit-name{
     color  :#008F0C;
+}
+
+.fruit-cart button:hover{
+    background-color: indianred;
+    border: 1px solid white;
+}
+.fruit-name:hover{
+    cursor: pointer;
+    color: indianred;
+}
+
+.fruit-cart i{
+    margin:10px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.fruit-cart i:hover{
+    font-size: 32px;
+}
+.facebook{
+    color : blue;
+}
+.instagram{
+    color : maroon;
 }

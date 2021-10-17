@@ -68,5 +68,19 @@
       "price": 30,
       "img": "https://pngimg.com/uploads/guava/guava_PNG18.png",
       "origin": "Southern Mexico"
+    },
+    {
+      "name": "Cherry",
+      "shape": "Heart-shaped",
+      "price": 500,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOyNcpIFtEzyAfy33Kp8dyVKcYs2qcYKAZeA&usqp=CAU",
+      "origin": "Caspian Seas"
+    },
+    {
+      "name": "Coconut",
+      "shape": "Ovoid or Ellipsoid",
+      "price": 60,
+      "img": "https://www.bharatiya.co/wp-content/uploads/2020/07/Coconut.png.jpg",
+      "origin": "Indo-Malaya"
     }
   ]
